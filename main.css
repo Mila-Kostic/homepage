@@ -55,3 +55,10 @@ body {
   text-transform: uppercase;
   margin: 0;
 }
+
+.intro p {
+  font-size: 20px;
+  color: #d1d1d1;
+  text-transform: uppercase;
+  margin: 20x 0;
+}
